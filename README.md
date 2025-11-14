@@ -53,13 +53,13 @@ python main.py
 ###  Folder Structure
 
 ```
-FileManagerProject/
-├── main.py
-├── file_operations.py
-├── logs/
-│   └── file_manager.log
-├── backup/
-│   ├── backup.zip
-│   └── undo_restore/
+FileManagerProject/  
+├── main.py  
+├── file_operations.py  
+├── logs/  
+│   └── file_manager.log  
+├── backup/  
+│   ├── backup.zip  
+│   └── undo_restore/  
 
 ---
